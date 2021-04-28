@@ -1,4 +1,4 @@
-#Problem
+# Problem
 Your friend John just came back from vacation, and he would like to share with you a new property that he learned about strings.
 
 John learned that a string C of length L consisting of uppercase English characters is strictly increasing if, for every pair of indices i and j such that 1≤i<j≤L (1-based), the character at position i is smaller than the character at position j.

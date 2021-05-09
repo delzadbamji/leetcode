@@ -5,7 +5,7 @@
 | Sn.   | Linkedin-Assessment | Status |
 | ----- | ----- | ----- |
 | 1.    | [leetcode](https://github.com/delzadbamji/leetcode/blob/main/leetcode-easy/readme.md) | easy |
-| 2.    | [leetcode](https://github.com/delzadbamji/leetcode/blob/main/RotateArray/question.md) | medium |
+| 2.    | [leetcode](https://github.com/delzadbamji/leetcode/blob/main/leetcode-medium/readme.md) | medium |
 | 3.    | [leetcode](https://github.com/delzadbamji/leetcode/blob/main/leetcode-hard/readme.md) | hard |
 
 

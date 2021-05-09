@@ -4,9 +4,9 @@
 
 | Sn.   | Linkedin-Assessment | Status |
 | ----- | ----- | ----- |
-| 1.    | [leetcode](https://github.com/delzadbamji/leetcode/) | easy |
+| 1.    | [leetcode](https://github.com/delzadbamji/leetcode/blob/main/leetocde-easy/leetcode-easy.md) | easy |
 | 2.    | [leetcode](https://github.com/delzadbamji/leetcode/blob/main/RotateArray/question.md) | medium |
-| 3.    | [leetcode](https://github.com/delzadbamji/leetcode/) | hard |
+| 3.    | [leetcode](https://github.com/delzadbamji/leetcode/blob/main/leetocde-hard/leetcode-hard.md) | hard |
 
 
 # challenges

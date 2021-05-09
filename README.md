@@ -14,4 +14,4 @@
 
 | Sn.   | Challenge |
 | ----- | ----- |
-| 1.    | [Google-kickstart](https://github.com/delzadbamji/leetcode/) |
+| 1.    | [Google-kickstart](https://github.com/delzadbamji/leetcode/tree/main/GoogleKickStart2021/increasingSubString) |

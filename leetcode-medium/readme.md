@@ -1,5 +1,5 @@
 # leetcode medium
 
-| Sn.   | Challenge |
+| Sn.   | Problem |
 | ----- | ----- |
 | 1.    | [Rotate Array](https://github.com/delzadbamji/leetcode/tree/main/leetcode-medium/RotateArray) |

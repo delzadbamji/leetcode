@@ -6,7 +6,7 @@
 | ----- | ----- | ----- |
 | 1.    | [leetcode](https://github.com/delzadbamji/leetcode/blob/main/leetcode-easy/readme.md) | easy |
 | 2.    | [leetcode](https://github.com/delzadbamji/leetcode/blob/main/RotateArray/question.md) | medium |
-| 3.    | [leetcode](https://github.com/delzadbamji/leetcode/blob/main/leetocde-hard/readme.md) | hard |
+| 3.    | [leetcode](https://github.com/delzadbamji/leetcode/blob/main/leetcode-hard/readme.md) | hard |
 
 
 # challenges

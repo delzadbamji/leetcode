@@ -32,23 +32,29 @@ Given a string s, return true if s is a valid number.
 
 ## Example 1:
 
-Input: s = "0"
-Output: true
-Example 2:
+### Input: s = "0"
 
-Input: s = "e"
-Output: false
-Example 3:
+### Output: true
 
-Input: s = "."
-Output: false
-Example 4:
+## Example 2:
+### Input: s = "e"
 
-Input: s = ".1"
-Output: true
+### Output: false
+
+## Example 3:
+
+### Input: s = "."
+
+### Output: false
+
+## Example 4:
+
+### Input: s = ".1"
+### Output: true
  
 
 ## Constraints:
 
 1 <= s.length <= 20
+
 s consists of only English letters (both uppercase and lowercase), digits (0-9), plus '+', minus '-', or dot '.'.

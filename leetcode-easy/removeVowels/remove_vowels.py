@@ -5,3 +5,4 @@ class Solution:
             if i not in ("a","e","i","o","u"):
                 st+=i
         return st
+    
